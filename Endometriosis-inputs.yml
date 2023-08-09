@@ -1,0 +1,33 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/endometriosis---primary.py
+inputModule3:
+  class: File
+  path: python/endometriosis-adenomyosis---primary.py
+inputModule4:
+  class: File
+  path: python/endometriosis-uterus---primary.py
+inputModule5:
+  class: File
+  path: python/endometriosis-ovary---primary.py
+inputModule6:
+  class: File
+  path: python/other-endometriosis---primary.py
+inputModule7:
+  class: File
+  path: python/endometriosis-peritoneum---primary.py
+inputModule8:
+  class: File
+  path: python/endometriosis-ligament---primary.py
+inputModule9:
+  class: File
+  path: python/endometriosis-intestine---primary.py
+inputModule10:
+  class: File
+  path: python/endometriosis---secondary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
